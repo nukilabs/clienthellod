@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	. "github.com/refraction-networking/clienthellod"
+	. "github.com/nukilabs/clienthellod"
 )
 
 func TestClientInitialKeysCalc(t *testing.T) {

@@ -12,7 +12,7 @@ import (
 
 	crand "crypto/rand"
 
-	. "github.com/refraction-networking/clienthellod"
+	. "github.com/nukilabs/clienthellod"
 )
 
 var (

@@ -1,7 +1,7 @@
 # `clienthellod`: TLS ClientHello/QUIC Initial Packet reflection service
 
-![Go Build Status](https://github.com/refraction-networking/clienthellod/actions/workflows/go.yml/badge.svg)
-[![Go Report Card](https://goreportcard.com/badge/github.com/refraction-networking/clienthellod)](https://goreportcard.com/report/github.com/refraction-networking/clienthellod)
+![Go Build Status](https://github.com/nukilabs/clienthellod/actions/workflows/go.yml/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nukilabs/clienthellod)](https://goreportcard.com/report/github.com/nukilabs/clienthellod)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgaukas%2Fclienthellod.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgaukas%2Fclienthellod?ref=badge_shield&issueType=license)
 [![Go Doc](https://pkg.go.dev/badge/github.com/refraction-networking/water.svg)](https://pkg.go.dev/github.com/refraction-networking/water)
 
@@ -132,7 +132,7 @@ Implementations including Chrome/Chromium sends oversized Client Hello which doe
 
 ### Use with Caddy
 
-We also provide clienthellod as a Caddy Module in `modcaddy`, which you can use with Caddy to capture ClientHello messages and QUIC Client Initial Packets. See [modcaddy](https://github.com/refraction-networking/clienthellod/tree/master/modcaddy) for more details.
+We also provide clienthellod as a Caddy Module in `modcaddy`, which you can use with Caddy to capture ClientHello messages and QUIC Client Initial Packets. See [modcaddy](https://github.com/nukilabs/clienthellod/tree/master/modcaddy) for more details.
 
 ## License
 

@@ -5,7 +5,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/refraction-networking/clienthellod/internal/utils"
+	"github.com/nukilabs/clienthellod/internal/utils"
 	"golang.org/x/crypto/cryptobyte"
 )
 

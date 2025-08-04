@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	. "github.com/refraction-networking/clienthellod"
+	. "github.com/nukilabs/clienthellod"
 )
 
 // TODO: update test data to the latest and move test data to separate files (in binary format)

@@ -9,9 +9,9 @@ import (
 	"runtime"
 	"sort"
 
-	"github.com/refraction-networking/clienthellod/internal/utils"
-	tls "github.com/refraction-networking/utls"
-	"github.com/refraction-networking/utls/dicttls"
+	"github.com/nukilabs/clienthellod/internal/utils"
+	tls "github.com/nukilabs/utls"
+	"github.com/nukilabs/utls/dicttls"
 	"golang.org/x/crypto/cryptobyte"
 )
 

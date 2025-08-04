@@ -6,7 +6,7 @@ import (
 
 	_ "embed"
 
-	. "github.com/refraction-networking/clienthellod"
+	. "github.com/nukilabs/clienthellod"
 )
 
 var mapValueToVLI = map[uint64][]byte{

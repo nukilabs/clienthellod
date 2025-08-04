@@ -1,7 +1,7 @@
 package clienthellod
 
 import (
-	"github.com/refraction-networking/clienthellod/internal/utils"
+	"github.com/nukilabs/clienthellod/internal/utils"
 )
 
 const (

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/refraction-networking/clienthellod"
+	. "github.com/nukilabs/clienthellod"
 )
 
 var mapGatheredClientInitials = map[string][][]byte{

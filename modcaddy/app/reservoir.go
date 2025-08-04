@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/caddyserver/caddy/v2"
-	"github.com/refraction-networking/clienthellod"
+	"github.com/nukilabs/clienthellod"
 	"go.uber.org/zap"
 )
 

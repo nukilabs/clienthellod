@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"testing"
 
-	. "github.com/refraction-networking/clienthellod"
+	. "github.com/nukilabs/clienthellod"
 )
 
 func TestPADDING(t *testing.T) {

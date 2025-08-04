@@ -15,13 +15,13 @@ It is worth noting that some web browsers may not choose to switch to QUIC proto
 ## Build
 
 ```bash
-xcaddy build --with github.com/refraction-networking/clienthellod/modcaddy
+xcaddy build --with github.com/nukilabs/clienthellod/modcaddy
 ```
 
 ### When build locally with changes
 
 ```bash
-xcaddy build --with github.com/refraction-networking/clienthellod/modcaddy --with github.com/refraction-networking/clienthellod/=./
+xcaddy build --with github.com/nukilabs/clienthellod/modcaddy --with github.com/nukilabs/clienthellod/=./
 ```
 
 ## sample Caddyfile

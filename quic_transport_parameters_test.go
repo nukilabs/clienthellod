@@ -4,9 +4,9 @@ import (
 	"reflect"
 	"testing"
 
-	. "github.com/refraction-networking/clienthellod"
+	. "github.com/nukilabs/clienthellod"
 
-	"github.com/refraction-networking/utls/dicttls"
+	"github.com/nukilabs/utls/dicttls"
 )
 
 var (

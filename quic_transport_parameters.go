@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/refraction-networking/clienthellod/internal/utils"
-	"github.com/refraction-networking/utls/dicttls"
+	"github.com/nukilabs/clienthellod/internal/utils"
+	"github.com/nukilabs/utls/dicttls"
 )
 
 const (
